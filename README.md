@@ -8,3 +8,11 @@ $ python main.py > contacts.vcf
 ```
 
 
+# works on
+
+* google contacts
+* sharp
+
+# not working on
+
+* samsung
